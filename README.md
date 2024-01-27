@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Muhammad Hamza</h1>
-<h4 align="left">An enthusiastic Frontend Developer exploring the vast realm of Web Technologies.</h4>
+<h3 align="left">An enthusiastic Frontend Developer exploring the vast realm of Web Technologies.</h3>
+<br/>
 
 <p align="left">
 <a href="https://twitter.com/mhdeveloper56" target="blank"><img align="center" src="assets/twitter-x.svg" alt="mhdeveloper56" height="20" width="25" /></a>
 <a href="https://linkedin.com/in/mhdeveloper56" target="blank"><img align="center" src="assets/linkedin.svg" alt="mhdeveloper56" height="20" width="25" /></a>
 </p>
-<br/>
 
 - 🔭 I’m currently working on [Stream Vibe](https://github.com/mhdeveloper56/stream-vibe)
 

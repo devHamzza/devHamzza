@@ -20,25 +20,25 @@ I turn business ideas into simple, well-structured code.
 
 <table>
   <tr>
-    <td align="center" width="110" height="90">
+    <td align="center" width="110" height="100">
       <a>
         <img src="./tech/javascript.svg" width="55" height="55" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="110" height="90">
+    <td align="center" width="110" height="100">
       <a>
         <img src="./tech/react.svg" width="55" height="55" alt="TypeScript" />
       </a>
       <br>React Js
     </td>
-    <td align="center" width="110" height="90">
+    <td align="center" width="110" height="100">
       <a>
         <img src="./tech/html.svg" width="55" height="55" alt="Nodejs" />
       </a>
       <br>HTML5
     </td>
-    <td align="center" width="110" height="90">
+    <td align="center" width="110" height="100">
       <a>
         <img src="./tech/CSS.svg" width="55" height="55" alt="React" />
       </a>
@@ -50,7 +50,7 @@ I turn business ideas into simple, well-structured code.
       </a>
       <br>Tailwind CSS
     </td>
-    <td align="center" width="110" height="90">
+    <td align="center" width="110" height="100">
       <a>
         <img src="./tech/bootstrap.svg" width="55" height="55" alt="MySQL" />
       </a>

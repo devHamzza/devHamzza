@@ -1,17 +1,23 @@
-## Hello, World!
+## Hey, I'm Matej 👋
 
-<a href='https://www.linkedin.com/in/mhdeveloper56/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/mhdeveloper56/mhdeveloper56/bce3be852b937b2e3bd0dd8f078abb565c0dacca/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/mhdeveloper56/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/mhdeveloper56/mhdeveloper56/bce3be852b937b2e3bd0dd8f078abb565c0dacca/assets/twitter.svg" height='18px'/></a>
-<br/>
+## 20 • Notion Lover 🤍 • Full-Stack Web Developer 🌐 
+ 
+- ⚡ Average Neovim Enjoyer
+- 📄 Notion Templates Creator
+- 📚 I'm currently learning C and Java
+- 🎓 Studying at Technical University of Košice
 
-I turn business ideas into simple, well-structured code.
-<img align="right" alt="SVG" src="https://raw.githubusercontent.com/mhdeveloper56/mhdeveloper56/bce3be852b937b2e3bd0dd8f078abb565c0dacca/assets/developer.svg" width="300px"/>
+### Projects I've built:
 
-### About Me:
-
-- &nbsp; 📫 Best way to reach me: [mhdeveloper56@gmail.com](mailto:mhdeveloper56@gmail.com)
-- &nbsp; 🔭 Currently I'm working on a devtool for one-command Go server setup: [lets-go](https://github.com/mhdeveloper56/stream-vibe)
-- &nbsp; 🔥 When not coding, I post hot takes on twitter: [@mhdeveloper56](https://twitter.com/mhdeveloper56)
+<a href="https://realtor-clone.matejbendik.com" target="_blank">Realtor clone</a>
+•
+<a href="https://promptzone.matejbendik.com" target="_blank">Promptzone</a>
+•
+<a href="https://www.matejbendik.com" target="_blank">Portfolio</a>
+•
+<a href="https://sortlen.matejbendik.com" target="_blank">Sortlen</a>
+•
+<a href="https://links.matejbendik.com" target="_blank">My Links</a>
 
 <br/>
 

@@ -1,16 +1,17 @@
-## Hello, World! 
+## Hello, World!
+
 <a href='https://www.linkedin.com/in/mhdeveloper56/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/mhdeveloper56/mhdeveloper56/bce3be852b937b2e3bd0dd8f078abb565c0dacca/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/mhdeveloper56/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/mhdeveloper56/mhdeveloper56/bce3be852b937b2e3bd0dd8f078abb565c0dacca/assets/twitter.svg" height='18px'/></a>
 <br/>
 
-I turn business ideas into simple, well-structured code. 
+I turn business ideas into simple, well-structured code.
 <img align="right" alt="SVG" src="https://raw.githubusercontent.com/mhdeveloper56/mhdeveloper56/bce3be852b937b2e3bd0dd8f078abb565c0dacca/assets/developer.svg" width="300px"/>
 
 ### About Me:
 
--  &nbsp; 📫 Best way to reach me: [mhdeveloper56@gmail.com](mailto:mhdeveloper56@gmail.com) 
--  &nbsp; 🔭 Currently I'm working on a devtool for one-command Go server setup: [lets-go](https://github.com/mhdeveloper56/stream-vibe)
--  &nbsp; 🔥 When not coding, I post hot takes on twitter: [@mhdeveloper56](https://twitter.com/mhdeveloper56)
+- &nbsp; 📫 Best way to reach me: [mhdeveloper56@gmail.com](mailto:mhdeveloper56@gmail.com)
+- &nbsp; 🔭 Currently I'm working on a devtool for one-command Go server setup: [lets-go](https://github.com/mhdeveloper56/stream-vibe)
+- &nbsp; 🔥 When not coding, I post hot takes on twitter: [@mhdeveloper56](https://twitter.com/mhdeveloper56)
 
 <br/>
 
@@ -61,11 +62,7 @@ I turn business ideas into simple, well-structured code.
 
 <h2 align="left">Github Stats</h2>
 
-<div align="center">
-<div style="display: flex; justify-content: center;">
-<a >
-  <img height="200" width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdeveloper56&theme=transparent&layout=compact&hide_border=false&exclude_repo=false,github-readme-stats,github-readme-activity-graph,github-readme-streak-stats,IP&hide=css,Handlebars,NSIS" />
-</a>
-</div>
-</div>
-</br>
+<br/>
+    <a href="https://github.com/mhdeveloper56/github-readme-stats"><img alt="Nikolay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhdeveloper56&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mhdeveloper56/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdeveloper56&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>

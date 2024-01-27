@@ -1,89 +1,39 @@
-## Hello, World! 
-<a href='https://www.linkedin.com/in/mhdeveloper56/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/mhdeveloper56/mhdeveloper56/bce3be852b937b2e3bd0dd8f078abb565c0dacca/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/mhdeveloper56/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/mhdeveloper56/mhdeveloper56/bce3be852b937b2e3bd0dd8f078abb565c0dacca/assets/twitter.svg" height='18px'/></a>
-<br/>
+<h1 align="center">Hi 👋, I'm Ali</h1>
+<h3 align="center">A Frontend Developer and Content Creator</h3>
 
-I turn business ideas into simple, well-structured code. 
-<img align="right" alt="SVG" src="https://raw.githubusercontent.com/mhdeveloper56/mhdeveloper56/bce3be852b937b2e3bd0dd8f078abb565c0dacca/assets/developer.svg" width="300px"/>
+<p align="left"> <a href="https://twitter.com/mhdeveloper56" target="blank"><img src="https://img.shields.io/twitter/follow/mhdeveloper56?logo=twitter&style=for-the-badge" alt="mhdeveloper56" /></a> </p>
 
-### About Me:
+<img align="right" alt="Coding" style="border-radius:100px;" width="400" src="assets/developer.svg">
 
--  &nbsp; 📫 Best way to reach me: [mhdeveloper56@gmail.com](mailto:mhdeveloper56@gmail.com) 
--  &nbsp; 🔭 Currently I'm working on a devtool for one-command Go server setup: [lets-go](https://github.com/mhdeveloper56/stream-vibe)
--  &nbsp; 🔥 When not coding, I post hot takes on twitter: [@mhdeveloper56](https://twitter.com/mhdeveloper56)
+- 🔭 I’m currently working as a Frontend Developer
 
-<br/>
+- 💬 Ask me about **Frontend Development**
 
-<h2 align="left">Tech Stack</h2>
-
-> The effectiveness lies not in the tools themselves, but in how skillfully they are utilized.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="./tech/javascript.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="./tech/react.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>React Js
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="./tech/html.svg" width="48" height="48" alt="Nodejs" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="./tech/CSS.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="./tech/tailwindcss.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="./tech/bootstrap.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>Bootstrap
-    </td>    
-    <td align="center" width="96">
-      <a>
-        <img src="./tech/java.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-  </tr>
-</table>
-
-<h2 align="left">Github Stats</h2>
-
-> A picture is worth a thousand words
+- 📫 Reach me by email **mhdeveloper56@gmail.com**
 
 
+## 💻 Languages and tools:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Photoshop](https://img.shields.io/badge/photoshop-%23F24E1E.svg?style=for-the-badge&logo=photoshop&logoColor=white) 
+![Illustrator](https://img.shields.io/badge/illustrator-%23F24E1E.svg?style=for-the-badge&logo=illustrator&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
-<div align="center">
-<div style="display: flex; justify-content: center;">
-<a >
-  <img height=200 align="center" src="https://github-readme-stats-five-zeta-52.vercel.app/api?username=mhdeveloper56&show_icons=true&hide_border=false&theme=transparent&hide_rank=true" />
-</a>
-<a >
-  <img height=200 align="center" src="https://github-readme-stats-five-zeta-52.vercel.app/api/top-langs/?username=mhdeveloper56&theme=transparent&layout=compact&hide_border=false&exclude_repo=the-questioner,github-readme-stats,github-readme-activity-graph,github-readme-streak-stats,IP&hide=css,Handlebars,NSIS" />
-</a>
-</div>
-</div>
-</br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats-zeta-opal.vercel.app/?user=mhdeveloper56&theme=transparent" alt="mhdeveloper56" /></p>
+## 📊 My Statistics:
 
-| <picture><source srcset="https://github-readme-activity-graph-two-tau.vercel.app/graph?username=mhdeveloper56&theme=tokyo-night&custom_title=Hamza's%20Contribution%20Graph&hide_border=true&bg_color=0F1216" media="(prefers-color-scheme: dark)" /><source srcset="https://github-readme-activity-graph-two-tau.vercel.app/graph?username=mhdeveloper56&theme=minimal&custom_title=Hamza's%20Contribution%20Graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /><img src="https://github-readme-activity-graph-two-tau.vercel.app/graph?username=mhdeveloper56&theme=minimal&custom_title=Hamza's%20Contribution%20Graph" /></picture> |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+<a align="right" href="https://app.daily.dev/alicalimli_devv"><img align="right" width="330" src="/devcard.svg" width="400" alt="Ali Calimli's Dev Card"/></a>
+
+![](https://github-readme-stats.vercel.app/api?username=mhdeveloper56&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mhdeveloper56&theme=monokai&hide_border=true/)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdeveloper56&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 My Contribution Graph
+![](https://activity-graph.herokuapp.com/graph?username=mhdeveloper56&theme=monokai)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mhdeveloper56&icon=9&color=0)](https://visitcount.itsvg.in)

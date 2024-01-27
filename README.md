@@ -1,10 +1,10 @@
 ## Hello, World! 
-<a href='https://www.linkedin.com/in/mhdeveloper56/'><img align='left' alt="linkedin" src="https://github.com/mhdeveloper56/mhdeveloper56/blob/d98576344d5dd4c0297d60b636994e2463e623d7/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/mhdeveloper56/'><img align='left' alt="twitter" src="https://github.com/mhdeveloper56/mhdeveloper56/blob/d98576344d5dd4c0297d60b636994e2463e623d7/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/mhdeveloper56/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/mhdeveloper56/mhdeveloper56/bce3be852b937b2e3bd0dd8f078abb565c0dacca/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/mhdeveloper56/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/mhdeveloper56/mhdeveloper56/bce3be852b937b2e3bd0dd8f078abb565c0dacca/assets/twitter.svg" height='18px'/></a>
 <br/>
 
 I turn business ideas into simple, well-structured code. 
-<img align="right" alt="SVG" src="https://github.com/mhdeveloper56/mhdeveloper56/blob/d98576344d5dd4c0297d60b636994e2463e623d7/assets/developer.svg" width="300px"/>
+<img align="right" alt="SVG" src="https://raw.githubusercontent.com/mhdeveloper56/mhdeveloper56/bce3be852b937b2e3bd0dd8f078abb565c0dacca/assets/developer.svg" width="300px"/>
 
 ### About Me:
 

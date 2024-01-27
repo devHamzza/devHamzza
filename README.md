@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mhdeveloper56" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-577BCAE525-seeklogo.com.png" alt="mhdeveloper56" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mhdeveloper56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhdeveloper56" height="30" width="40" /></a>
+<a href="https://twitter.com/mhdeveloper56" target="blank"><img align="center" src="assets/twitter-x.svg" alt="mhdeveloper56" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mhdeveloper56" target="blank"><img align="center" src="assets/linkedin.svg" alt="mhdeveloper56" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Tech Stack</h2>

@@ -14,18 +14,12 @@ I turn business ideas into simple, well-structured code.
 
 <br/>
 
-<h2 align="left">Preferred Technologies</h2>
+<h2 align="left">Tech Stack</h2>
 
-> It’s not the tools, but how you wield them that makes all the difference
+> The effectiveness lies not in the tools themselves, but in how skillfully they are utilized.
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="./tech/go.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
     <td align="center" width="96">
       <a>
         <img src="./tech/javascript.svg" width="48" height="48" alt="JavaScript" />
@@ -34,40 +28,34 @@ I turn business ideas into simple, well-structured code.
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./tech/typescript.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./tech/react.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>React Js
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./tech/nodejs.svg" width="48" height="48" alt="Nodejs" />
+        <img src="./tech/html.svg" width="48" height="48" alt="Nodejs" />
       </a>
-      <br>Node.js
+      <br>HTML5
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./tech/react.svg" width="48" height="48" alt="React" />
+        <img src="./tech/CSS.svg" width="48" height="48" alt="React" />
       </a>
-      <br>React
+      <br>CSS3
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./tech/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+        <img src="./tech/tailwindcss.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>PostgreSQL
+      <br>Tailwind CSS
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./tech/mysql.svg" width="48" height="48" alt="MySQL" />
+        <img src="./tech/bootstrap.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>MySQL
+      <br>Bootstrap
     </td>    
-    <td align="center" width="96">
-      <a>
-        <img src="./tech/python.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
     <td align="center" width="96">
       <a>
         <img src="./tech/java.svg" width="48" height="48" alt="Java" />
@@ -86,7 +74,7 @@ I turn business ideas into simple, well-structured code.
 <div align="center">
 <div style="display: flex; justify-content: center;">
 <a >
-  <img height=200 align="center" src="https://github-readme-stats-five-zeta-52.vercel.app/api?username=mhedeveloper56&show_icons=true&hide_border=false&theme=transparent&hide_rank=true" />
+  <img height=200 align="center" src="https://github-readme-stats-five-zeta-52.vercel.app/api?username=mhdeveloper56&show_icons=true&hide_border=false&theme=transparent&hide_rank=true" />
 </a>
 <a >
   <img height=200 align="center" src="https://github-readme-stats-five-zeta-52.vercel.app/api/top-langs/?username=mhdeveloper56&theme=transparent&layout=compact&hide_border=false&exclude_repo=the-questioner,github-readme-stats,github-readme-activity-graph,github-readme-streak-stats,IP&hide=css,Handlebars,NSIS" />
@@ -97,5 +85,5 @@ I turn business ideas into simple, well-structured code.
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats-zeta-opal.vercel.app/?user=mhdeveloper56&theme=transparent" alt="mhdeveloper56" /></p>
 
-| <picture><source srcset="https://github-readme-activity-graph-two-tau.vercel.app/graph?username=mhedeveloper56&theme=tokyo-night&custom_title=Hamza's%20Contribution%20Graph&hide_border=true&bg_color=0F1216" media="(prefers-color-scheme: dark)" /><source srcset="https://github-readme-activity-graph-two-tau.vercel.app/graph?username=mhedeveloper56&theme=minimal&custom_title=Hamza's%20Contribution%20Graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /><img src="https://github-readme-activity-graph-two-tau.vercel.app/graph?username=mhedeveloper56&theme=minimal&custom_title=Hamza's%20Contribution%20Graph" /></picture> |
+| <picture><source srcset="https://github-readme-activity-graph-two-tau.vercel.app/graph?username=mhdeveloper56&theme=tokyo-night&custom_title=Hamza's%20Contribution%20Graph&hide_border=true&bg_color=0F1216" media="(prefers-color-scheme: dark)" /><source srcset="https://github-readme-activity-graph-two-tau.vercel.app/graph?username=mhdeveloper56&theme=minimal&custom_title=Hamza's%20Contribution%20Graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /><img src="https://github-readme-activity-graph-two-tau.vercel.app/graph?username=mhdeveloper56&theme=minimal&custom_title=Hamza's%20Contribution%20Graph" /></picture> |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|

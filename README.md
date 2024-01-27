@@ -7,6 +7,9 @@
 </p>
 <br/>
 
+<img align="right" alt="SVG" src="assets/developer.svg" width="300px"/>
+
+
 ## About Me
 - 🔭 I’m currently working on [Stream Vibe](https://github.com/mhdeveloper56/stream-vibe)
 
@@ -16,6 +19,8 @@
 
 - 📫 How to reach me **mhdeveloper56@gmail.com**
 <br/>
+
+
 
 
 <h2 align="left">Tech Stack & Tools</h2>

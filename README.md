@@ -2,8 +2,8 @@
 <p align="left">An enthusiastic Frontend Developer exploring the vast realm of Web Technologies.</p>
 
 <p align="left">
-<a href="https://twitter.com/mhdeveloper56" target="blank"><img align="center" src="assets/twitter-x.svg" alt="mhdeveloper56" height="16" width="25" /></a>
-<a href="https://linkedin.com/in/mhdeveloper56" target="blank"><img align="center" src="assets/linkedin.svg" alt="mhdeveloper56" height="16" width="25" /></a>
+<a href="https://twitter.com/mhdeveloper56" target="blank"><img align="center" src="assets/twitter-x.svg" alt="mhdeveloper56" height="18" width="25" /></a>
+<a href="https://linkedin.com/in/mhdeveloper56" target="blank"><img align="center" src="assets/linkedin.svg" alt="mhdeveloper56" height="18" width="25" /></a>
 </p>
 <br/>
 

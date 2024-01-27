@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/mhdeveloper56" target="blank"><img align="center" src="assets/linkedin.svg" alt="mhdeveloper56" height="25" width="35" /></a>
 </p>
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">Tech Stack & Tools</h2>
 
 > The effectiveness lies not in the tools themselves, but in how skillfully they are utilized.
 
@@ -31,33 +31,51 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./tech/react.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./tech/react.svg" width="48" height="48" alt="React Js" />
       </a>
       <br>React Js
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./tech/html.svg" width="48" height="48" alt="Nodejs" />
+        <img src="./tech/html.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./tech/CSS.svg" width="48" height="48" alt="React" />
+        <img src="./tech/CSS.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS3
     </td>
     <td align="center" width="96" height="120">
       <a>
-        <img src="./tech/tailwindcss.svg" width="48" height="48" alt="PostgreSQL" />
+        <img src="./tech/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" />
       </a>
       <br>Tailwind CSS
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./tech/bootstrap.svg" width="48" height="48" alt="MySQL" />
+        <img src="./tech/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/figma.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/photoshop.svg" width="48" height="48" alt="Photoshop" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/illustrator.svg" width="48" height="48" alt="Illustrator" />
+      </a>
+      <br>Figma
     </td>
   </tr>
 </table>

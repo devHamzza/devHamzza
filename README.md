@@ -83,12 +83,12 @@
       </a>
       <br>Adobe Photoshop
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a>
         <img src="./tech/illustrator.svg" width="48" height="48" alt="Illustrator" />
       </a>
       <br>Adobe Illustrator
-    </td>
+    </td> -->
   </tr>
 </table>
 

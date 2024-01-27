@@ -37,6 +37,12 @@
     </td>
     <td align="center" width="96">
       <a>
+        <img src="./tech/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux Toolkit
+    </td>
+    <td align="center" width="96">
+      <a>
         <img src="./tech/html.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML5

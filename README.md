@@ -2,9 +2,10 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left">
-<a href="https://twitter.com/mhdeveloper56" target="blank"><img align="center" src="assets/twitter-x.svg" alt="mhdeveloper56" height="25" width="35" /></a>
-<a href="https://linkedin.com/in/mhdeveloper56" target="blank"><img align="center" src="assets/linkedin.svg" alt="mhdeveloper56" height="25" width="35" /></a>
+<a href="https://twitter.com/mhdeveloper56" target="blank"><img align="center" src="assets/twitter-x.svg" alt="mhdeveloper56" height="20" width="25" /></a>
+<a href="https://linkedin.com/in/mhdeveloper56" target="blank"><img align="center" src="assets/linkedin.svg" alt="mhdeveloper56" height="20" width="25" /></a>
 </p>
+
 
 - 🔭 I’m currently working on [Stream Vibe](https://github.com/mhdeveloper56/stream-vibe)
 

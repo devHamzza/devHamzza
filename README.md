@@ -1,27 +1,72 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
-<h3 align="center">A Frontend Developer</h3>
+## Hello, World! 
+<a href='https://www.linkedin.com/in/mhdeveloper56/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/mhdeveloper56/mhdeveloper56/bce3be852b937b2e3bd0dd8f078abb565c0dacca/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/mhdeveloper56/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/mhdeveloper56/mhdeveloper56/bce3be852b937b2e3bd0dd8f078abb565c0dacca/assets/twitter.svg" height='18px'/></a>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/mhdeveloper56" target="blank"><img src="https://img.shields.io/twitter/follow/mhdeveloper56?logo=twitter&style=for-the-badge" alt="mhdeveloper56" /></a> </p>
+I turn business ideas into simple, well-structured code. 
+<img align="right" alt="SVG" src="https://raw.githubusercontent.com/mhdeveloper56/mhdeveloper56/bce3be852b937b2e3bd0dd8f078abb565c0dacca/assets/developer.svg" width="300px"/>
 
-<img align="right" alt="Coding" style="border-radius:100px;" width="400" src="assets/developer.svg">
+### About Me:
 
-- 🔭 I’m currently working as a Frontend Developer
+-  &nbsp; 📫 Best way to reach me: [mhdeveloper56@gmail.com](mailto:mhdeveloper56@gmail.com) 
+-  &nbsp; 🔭 Currently I'm working on a devtool for one-command Go server setup: [lets-go](https://github.com/mhdeveloper56/stream-vibe)
+-  &nbsp; 🔥 When not coding, I post hot takes on twitter: [@mhdeveloper56](https://twitter.com/mhdeveloper56)
 
-- 💬 Ask me about **Frontend Development**
+<br/>
 
-- 📫 Reach me by email **mhdeveloper56@gmail.com**
+<h2 align="left">Tech Stack</h2>
 
-## 💻 Languages and tools:
+> The effectiveness lies not in the tools themselves, but in how skillfully they are utilized.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/photoshop-%231572B6.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/javascript.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/react.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>React Js
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/html.svg" width="48" height="48" alt="Nodejs" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/CSS.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/tailwindcss.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/bootstrap.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
 
-## 📊 My Statistics:
+<h2 align="left">Github Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdeveloper56&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+<div style="display: flex; justify-content: center;">
+<a >
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdeveloper56/&theme=transparent&layout=compact&hide_border=false&exclude_repo=the-questioner,github-readme-stats,github-readme-activity-graph,github-readme-streak-stats,IP&hide=css,Handlebars,NSIS" />
+</a>
+</div>
+</div>
+</br>
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|

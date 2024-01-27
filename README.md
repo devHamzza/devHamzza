@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Frontend Web Developer</h3>
 
 <p align="left">
 <a href="https://twitter.com/mhdeveloper56" target="blank"><img align="center" src="assets/twitter-x.svg" alt="mhdeveloper56" height="20" width="25" /></a>

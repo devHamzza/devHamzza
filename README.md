@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <a href="https://twitter.com/mhdeveloper56" target="blank"><img src="https://img.shields.io/twitter/follow/mhdeveloper56?logo=twitter&style=for-the-badge" alt="mhdeveloper56" /></a> </p>
+<p align="left">
+<a href="https://twitter.com/mhdeveloper56" target="blank"><img align="center" src="assets/twitter-x.svg" alt="mhdeveloper56" height="25" width="35" /></a>
+<a href="https://linkedin.com/in/mhdeveloper56" target="blank"><img align="center" src="assets/linkedin.svg" alt="mhdeveloper56" height="25" width="35" /></a>
+</p>
 
 - 🔭 I’m currently working on [Stream Vibe](https://github.com/mhdeveloper56/stream-vibe)
 
@@ -11,11 +14,6 @@
 
 - 📫 How to reach me **mhdeveloper56@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mhdeveloper56" target="blank"><img align="center" src="assets/twitter-x.svg" alt="mhdeveloper56" height="25" width="35" /></a>
-<a href="https://linkedin.com/in/mhdeveloper56" target="blank"><img align="center" src="assets/linkedin.svg" alt="mhdeveloper56" height="25" width="35" /></a>
-</p>
 
 <h2 align="left">Tech Stack & Tools</h2>
 

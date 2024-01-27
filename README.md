@@ -44,7 +44,7 @@ I turn business ideas into simple, well-structured code.
       </a>
       <br>CSS3
     </td>
-    <td align="center" width="110" height="90">
+    <td align="center" width="110" height="120">
       <a>
         <img src="./tech/tailwindcss.svg" width="55" height="55" alt="PostgreSQL" />
       </a>

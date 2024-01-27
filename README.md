@@ -69,13 +69,13 @@
       <a>
         <img src="./tech/photoshop.svg" width="48" height="48" alt="Photoshop" />
       </a>
-      <br>Figma
+      <br>Adobe Photoshop
     </td>
     <td align="center" width="96">
       <a>
         <img src="./tech/illustrator.svg" width="48" height="48" alt="Illustrator" />
       </a>
-      <br>Figma
+      <br>Adobe Illustrator
     </td>
   </tr>
 </table>

@@ -64,7 +64,7 @@ I turn business ideas into simple, well-structured code.
 <div align="center">
 <div style="display: flex; justify-content: center;">
 <a >
-  <img height="200" width="100" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdeveloper56&theme=transparent&layout=compact&hide_border=false&exclude_repo=the-questioner,github-readme-stats,github-readme-activity-graph,github-readme-streak-stats,IP&hide=css,Handlebars,NSIS" />
+  <img height="200" width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdeveloper56&theme=transparent&layout=compact&hide_border=false&exclude_repo=false,github-readme-stats,github-readme-activity-graph,github-readme-streak-stats,IP&hide=css,Handlebars,NSIS" />
 </a>
 </div>
 </div>

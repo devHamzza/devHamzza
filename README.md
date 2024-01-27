@@ -20,39 +20,39 @@ I turn business ideas into simple, well-structured code.
 
 <table>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="110">
       <a>
-        <img src="./tech/javascript.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./tech/javascript.svg" width="55" height="55" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="120">
+    <td align="center" width="110">
       <a>
-        <img src="./tech/react.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./tech/react.svg" width="55" height="55" alt="TypeScript" />
       </a>
       <br>React Js
     </td>
-    <td align="center" width="120">
+    <td align="center" width="110">
       <a>
-        <img src="./tech/html.svg" width="48" height="48" alt="Nodejs" />
+        <img src="./tech/html.svg" width="55" height="55" alt="Nodejs" />
       </a>
       <br>HTML5
     </td>
-    <td align="center" width="120">
+    <td align="center" width="110">
       <a>
-        <img src="./tech/CSS.svg" width="48" height="48" alt="React" />
+        <img src="./tech/CSS.svg" width="55" height="55" alt="React" />
       </a>
       <br>CSS3
     </td>
-    <td align="center" width="120">
+    <td align="center" width="110">
       <a>
-        <img src="./tech/tailwindcss.svg" width="48" height="48" alt="PostgreSQL" />
+        <img src="./tech/tailwindcss.svg" width="55" height="55" alt="PostgreSQL" />
       </a>
       <br>Tailwind CSS
     </td>
-    <td align="center" width="120">
+    <td align="center" width="110">
       <a>
-        <img src="./tech/bootstrap.svg" width="48" height="48" alt="MySQL" />
+        <img src="./tech/bootstrap.svg" width="55" height="55" alt="MySQL" />
       </a>
       <br>Bootstrap
     </td>

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A Frontend Developer and Content Creator</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
+<h3 align="center">A Frontend Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/mhdeveloper56" target="blank"><img src="https://img.shields.io/twitter/follow/mhdeveloper56?logo=twitter&style=for-the-badge" alt="mhdeveloper56" /></a> </p>
 
@@ -24,16 +24,4 @@
 
 ## 📊 My Statistics:
 
-<a align="right" href="https://app.daily.dev/alicalimli_devv"><img align="right" width="330" src="/devcard.svg" width="400" alt="Ali Calimli's Dev Card"/></a>
-
-![](https://github-readme-stats.vercel.app/api?username=mhdeveloper56&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mhdeveloper56&theme=monokai&hide_border=true/)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdeveloper56&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 My Contribution Graph
-
-![](https://activity-graph.herokuapp.com/graph?username=mhdeveloper56&theme=monokai)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=mhdeveloper56&icon=9&color=0)](https://visitcount.itsvg.in)

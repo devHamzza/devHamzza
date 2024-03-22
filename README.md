@@ -13,11 +13,13 @@
 ## About Me
 - 🔭 I’m currently working on [Stream Vibe](https://github.com/hamzzaDev/stream-vibe)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently exploring **MERN Stack**
 
 - 💬 Ask me about **JavaScript and React Js**
 
 - 📫 How to reach me **hamzzaDev@gmail.com**
+
+- 🌐 Have a look at my [Portfolio](https://hamzzadev.netlify.app/)
 <br/>
 
 

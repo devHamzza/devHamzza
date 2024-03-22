@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hamzzaDev@gmail.com**
 
-- 🌐 Have a look at my [Portfolio](https://hamzzadev.netlify.app/)
+- 🌐 Have a look at my [Portfolio Site](https://hamzzadev.netlify.app/)
 <br/>
 
 

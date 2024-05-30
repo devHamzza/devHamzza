@@ -11,7 +11,7 @@
 
 
 ## About Me
-- 🔭 I’m currently working on [Stream Vibe](https://github.com/hamzzaDev/stream-vibe)
+- 🔭 I’m currently working on [Stream Vibe](https://stream-vibe-m.netlify.app/)
 
 - 🌱 I’m currently exploring **MERN Stack**
 

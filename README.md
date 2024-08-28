@@ -101,8 +101,3 @@
   <a href="https://github.com/devHamzza/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devHamzza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devHamzza&show_icons=true&locale=en&layout=compact" alt="adnandevelop" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devHamzza&show_icons=true&locale=en" alt="adnandevelop" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devHamzza&" alt="adnandevelop" /></p>

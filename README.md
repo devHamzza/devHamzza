@@ -101,4 +101,9 @@
   <a href="https://github.com/devHamzza/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devHamzza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devHamzza&hide_progress=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>

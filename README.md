@@ -13,7 +13,7 @@
 ## About Me
 - 🔭 I’m currently working on [Stream Vibe](https://stream-vibe-m.netlify.app/)
 
-- 🌱 I’m currently exploring **MERN Stack**
+- 🌱 I’m currently exploring **Next Js**
 
 - 💬 Ask me about **JavaScript and React Js**
 
@@ -96,8 +96,8 @@
 
 <h2 align="left">Github Stats</h2>
 
-<br/>
+<!--<br/>
     <a><img alt="Hamza's Github Stats" src="https://github-readme-stats-five-murex-18.vercel.app/api?username=devHamzza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1118" /></a>
   <a><img alt="Top Languages" src="https://github-readme-stats-five-murex-18.vercel.app/api/top-langs/?username=devHamzza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1118" /></a>
-  <br/>
+  <br/> -->
 

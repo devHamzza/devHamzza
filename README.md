@@ -69,15 +69,9 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./tech/html.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a>
         <img src="./tech/CSS.svg" width="48" height="48" alt="CSS" />
       </a>
-      <br>CSS3
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a>

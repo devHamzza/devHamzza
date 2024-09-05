@@ -33,15 +33,33 @@
   <tr>
     <td align="center" width="96">
       <a>
+        <img src="./tech/react.svg" width="48" height="48" alt="React Js" />
+      </a>
+      <br>React Js
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/typescript-icon.svg" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a>
         <img src="./tech/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./tech/react.svg" width="48" height="48" alt="React Js" />
+        <img src="./tech/next-js.svg" width="48" height="48" alt="Next Js" />
       </a>
-      <br>React Js
+      <br>Next Js
+    </td>
+    <td align="center" width="96" height="120">
+      <a>
+        <img src="./tech/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind CSS
     </td>
     <td align="center" width="96">
       <a>
@@ -60,18 +78,6 @@
         <img src="./tech/CSS.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS3
-    </td>
-    <td align="center" width="96" height="120">
-      <a>
-        <img src="./tech/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" />
-      </a>
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="./tech/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a>

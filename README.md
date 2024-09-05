@@ -94,7 +94,7 @@
   </tr>
 </table>
 
-<h2 align="left">Github Stats</h2>
+<!--<h2 align="left">Github Stats</h2> -->
 
 <!--<br/>
     <a><img alt="Hamza's Github Stats" src="https://github-readme-stats-five-murex-18.vercel.app/api?username=devHamzza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1118" /></a>

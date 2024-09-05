@@ -98,6 +98,6 @@
 
 <br/>
     <a href="https://github.com/devHamzza/github-readme-stats"><img alt="Hamza's Github Stats" src="https://github-readme-stats-five-murex-18.vercel.app/api?username=devHamzza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/devHamzza/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats-five-murex-18.vercel.app/api/top-langs/?username=devHamzza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/devHamzza/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats-five-murex-18.vercel.app/api/top-langs/?username=devHamzza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1118" /></a>
   <br/>
 

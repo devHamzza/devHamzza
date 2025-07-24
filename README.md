@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Muhammad Hamza</h1>
-<p align="left">An enthusiastic Frontend Developer exploring the vast realm of Web Technologies.</p>
+<p align="left">An enthusiastic Fullstack Developer exploring the vast realm of Web Technologies.</p>
 
 <p align="left">
 <a href="https://twitter.com/hamzzaDev" target="blank"><img align="center" src="assets/twitter-x.svg" alt="hamzzaDev" height="18" width="25" /></a>

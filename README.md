@@ -2,7 +2,7 @@
 <p align="left">An enthusiastic Fullstack Developer exploring the vast realm of Web Technologies.</p>
 
 <p align="left">
-<a href="https://twitter.com/hamzzaDev" target="blank"><img align="center" src="assets/twitter-x.svg" alt="hamzzaDev" height="18" width="25" /></a>
+<!-- <a href="https://twitter.com/hamzzaDev" target="blank"><img align="center" src="assets/twitter-x.svg" alt="hamzzaDev" height="18" width="25" /></a> -->
 <a href="https://linkedin.com/in/hamzzaDev" target="blank"><img align="center" src="assets/linkedin.svg" alt="hamzzaDev" height="18" width="25" /></a>
 </p>
 <br/>

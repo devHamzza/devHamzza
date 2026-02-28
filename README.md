@@ -11,7 +11,7 @@
 
 
 ## About Me
-- 🔭 I’m currently working on [Prepmind GPT](https://prepmind-gpt.vercel.app/)
+- 🔭 I’m currently working on [Prepmind GPT](https://prepmindgpt.tech)
 
 - 🌱 I’m currently exploring **Django Rest Framework**
 

@@ -2,7 +2,7 @@
  
 AI & Full-Stack Engineer based in Pakistan. I build production AI systems — voice agents, LLM pipelines, and the backend infrastructure behind them.
  
-5+ years of professional experience across frontend, backend, and AI/agent layers. Currently focused on conversational AI and voice agents in production.
+3+ years of professional experience across frontend, backend, and AI/agent layers. Currently focused on conversational AI and voice agents in production.
  
 ---
  

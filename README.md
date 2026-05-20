@@ -8,7 +8,7 @@ AI & Full-Stack Engineer based in Pakistan. I build production AI systems — vo
  
 ### What I do
  
-- **AI / LLMs** — Anthropic API, LangChain, LangGraph, RAG, tool calling
+- **AI / LLMs** — Anthropic/OpenAI API, LangChain, RAG, tool calling
 - **Voice AI** —  multi-turn conversation, real-time call answering
 - **Backend** —  Python (FastAPI, Django/Djnago Rest Framework)
 - **Frontend** —  JavaScript/TypeScript (React/Next Js)

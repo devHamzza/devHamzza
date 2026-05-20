@@ -1,21 +1,25 @@
-<h1 align="left">Hi 👋, I'm Muhammad Hamza</h1>
-<p align="left">An enthusiastic Fullstack Developer exploring the vast realm of Web Technologies.</p>
-
-<p align="left">
-<!-- <a href="https://twitter.com/hamzzaDev" target="blank"><img align="center" src="assets/twitter-x.svg" alt="hamzzaDev" height="18" width="25" /></a> -->
-<!-- <a href="https://linkedin.com/in/hamzzaDev" target="blank"><img align="center" src="assets/linkedin.svg" alt="hamzzaDev" height="18" width="25" /></a> -->
-</p>
-<br/>
-
-<img align="right" alt="SVG" src="assets/developer.svg" width="300px"/>
-
-
-## About Me
-- 🔭 I’m currently working on [Prepmind GPT](https://prepmindgpt.tech)
-
-- 💬 Ask me about **JavaScript and Python**
-
-
-<br/>
-
-
+# Muhammad Hamza
+ 
+AI & Full-Stack Engineer based in Pakistan. I build production AI systems — voice agents, LLM pipelines, and the backend infrastructure behind them.
+ 
+5+ years of professional experience across frontend, backend, and AI/agent layers. Currently focused on conversational AI and voice agents in production.
+ 
+---
+ 
+### What I do
+ 
+- **AI / LLMs** — Anthropic API, LangChain, LangGraph, RAG, tool calling
+- **Voice AI** —  multi-turn conversation, real-time call answering
+- **Backend** —  Python (FastAPI, Django/Djnago Rest Framework)
+- **Frontend** —  JavaScript/TypeScript (React/Next Js)
+- **Databases** — PostgreSQL, Redis, MongoDB, Supabase, Pinecone
+### Languages
+ 
+JavaScript, TypeScript, Python
+ 
+### Currently
+ 
+Working as a Full-Stack Software Developer, building production-grade AI systems including AI automations, conversational agents, real-time voice applications, and the infrastructure that powers them reliably at scale.
+ 
+---
+ 
